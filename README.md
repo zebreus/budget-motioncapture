@@ -1,2 +1,2 @@
 # budget-motioncapture
-A cheap motioncapture system based on pose recognition
+A cheap motioncapture system based on pose recognition.
